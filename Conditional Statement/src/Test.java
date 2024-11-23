@@ -1,6 +1,6 @@
 
 public class Test {
-	int a;
+
 	public static void main(String [] args)
 	{
 		
@@ -11,7 +11,7 @@ public class Test {
 			
 		}
 		
-		System.out.println("Main-End");
+	
 		
 	}	
 	
